@@ -1,0 +1,59 @@
+server_client mode: 5000, 1, 48, 100, 48
+cpuset:0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47
+seastar binding cores: false
+WARN  2025-03-18 08:00:06,847 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,848 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,851 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,852 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,854 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,855 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,860 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,861 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,864 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,864 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,869 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,869 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,869 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,872 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,874 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,879 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,908 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,914 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,914 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,928 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,930 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,930 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,931 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,936 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,940 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,946 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,956 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:06,956 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,030 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,035 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,082 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,082 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,083 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,084 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,084 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,115 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,116 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,116 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,126 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,128 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,129 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,129 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,133 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,134 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,135 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,137 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,137 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,138 seastar - Seastar compiled with default allocator, heap profiler not supported
+WARN  2025-03-18 08:00:07,216 [shard 0] seastar - Unable to set SCHED_FIFO scheduling policy for timer thread; latency impact possible. Try adding CAP_SYS_NICE
+Established connection: server_id =   0 on cpu   0, server addr: 172.17.0.2:58421.
+server read end: client close the connection.
+read END!
+ResponseAllWhenDisConnect ...
+read: set connection status false...
+server read end: client close the connection.
+cmd: /usr/local/lib/python2.7/dist-packages/xdl/python/utils/../../bin/ps -smem "21333" -bc "False" -sp "zfs://localhost:2181/scheduler" -sqps "93750" -snet "375" -r "scheduler" -sn "1" -cp "."

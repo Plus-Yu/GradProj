@@ -1,0 +1,597 @@
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+None:////xdl_training_samples/data.txt
+['/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt', '/xdl_training_samples/data.txt']
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+data parallel for re:  /xdl_training_samples/data.txt
+[]
+Starting time measurement
