@@ -1,6 +1,8 @@
 ```shell
 apt-get update && apt-get install -y zookeeper
 
+cd /x-deeplearning-redundancy/xdl/examples/mytest
+
 # scheduler
 /usr/share/zookeeper/bin/zkServer.sh stop  \
 && /usr/share/zookeeper/bin/zkServer.sh start  \
